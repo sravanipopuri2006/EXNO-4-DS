@@ -29,7 +29,7 @@ The feature selection techniques used are:
 ```
 
 # CODING AND OUTPUT:
-```
+
 ![Screenshot 2024-04-20 104028](https://github.com/sravanipopuri2006/EXNO-4-DS/assets/139778301/745ef722-cff9-4abb-8b59-8d7834977d8c)
 ![Screenshot 2024-04-20 104041](https://github.com/sravanipopuri2006/EXNO-4-DS/assets/139778301/5ba7278e-c9f5-4851-82e2-ac149ff73ea1)
 ![Screenshot 2024-04-20 104054](https://github.com/sravanipopuri2006/EXNO-4-DS/assets/139778301/e4a0316f-d122-4c21-95dd-9e0476cee968)
@@ -55,7 +55,7 @@ The feature selection techniques used are:
 ![Screenshot 2024-04-20 104714](https://github.com/sravanipopuri2006/EXNO-4-DS/assets/139778301/077d8a1e-d932-46df-8ff3-03a4d597a58a)
 ![Screenshot 2024-04-20 104732](https://github.com/sravanipopuri2006/EXNO-4-DS/assets/139778301/a7ed4066-9bab-4d28-8ce5-63ad3cd8bfb6)
 ![Screenshot 2024-04-20 104335](https://github.com/sravanipopuri2006/EXNO-4-DS/assets/139778301/1455ab76-e2c2-4ea3-8e86-fff33f53bc5f)
-```
+
 
 
 
